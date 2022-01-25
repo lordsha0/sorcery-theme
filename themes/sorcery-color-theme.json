@@ -20,7 +20,8 @@
 		"statusBar.debuggingBackground": "#FA985F",
 		"statusBar.debuggingForeground": "#090210",
 		"statusBar.noFolderBackground": "#CA6EF9",
-		"statusBar.noFolderForeground": "#090210"
+		"statusBar.noFolderForeground": "#090210",
+		"activityBarBadge.foreground": "#090210"
 	},
 	"tokenColors": [
 		{
