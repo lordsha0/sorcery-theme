@@ -2,7 +2,7 @@
 	"name": "sorcery",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#2B1F3F",
+		"editor.background": "#331636",
 		"editor.foreground": "#eeffff",
 		"editorGroupHeader.tabsBackground": "#31293F",
 		"tab.inactiveBackground": "#261B37",
