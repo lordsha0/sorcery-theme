@@ -125,7 +125,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FF329F"
+				"foreground": "#198EC0"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#FF329F"
+				"foreground": "#198EC0"
 			}
 		},
 		{
@@ -408,7 +408,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF329F"
+				"foreground": "#198EC0"
 			}
 		},
 		{
