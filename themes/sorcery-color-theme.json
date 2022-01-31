@@ -81,7 +81,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#E5A9EE"
+				"foreground": "#F6C9FC"
 			}
 		},
 		{
@@ -175,7 +175,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#E5A9EE"
+				"foreground": "#F6C9FC"
 			}
 		},
 		{
@@ -453,7 +453,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#E5A9EE"
+				"foreground": "#F6C9FC"
 			}
 		},
 		{
