@@ -1,6 +1,8 @@
 {
     "name": "sorcery",
     "displayName": "sorcery",
+    "author": "lordsha0",
+    "publisher": "lordsha0",
     "description": "Sorcerous color theme",
     "version": "0.0.1",
     "engines": {
